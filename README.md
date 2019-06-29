@@ -5,4 +5,4 @@ A MATLAB software tool for the analysis of Heart Rate Variability (HRV)
 (from the project's paper Abstract)
 
 
-The folder 'ECG records' contains 48 ECG records from the <a href="https://physionet.org/physiobank/database/mitdb/">MIT-BIH arrhythmia batabase</a> which is a well-known and widely used database to verify ECG-related algorithms’ performance and test softwares.
+The folder 'ECG records' contains 48 ECG records from the <a href="https://physionet.org/physiobank/database/mitdb/">MIT-BIH arrhythmia batabase</a> which is a well-known and widely used database to verify ECG-related algorithms’ performance and test softwares that deal with this kind of physiological signal (ECG).
