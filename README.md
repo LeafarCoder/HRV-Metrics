@@ -15,18 +15,40 @@ Once in MATLAB, the file 'programa.mlapp' must be opened using AppDesigner and t
 
 ### Peak detection
 The basis for all HRV analysis is the identification of the heart rate peaks.
+
 <img src="/Screenshots/peak_detection.PNG" width="700"/>
+
 
 ### Tachogram
 After applying the peak detection algorithm, a tachogram can be generated which shows the average interval between peaks (RR intervals). With this intervals, the heart rate can also be easily calculated through the inverse of the RR interval multiplied by 60.
+
 <img src="/Screenshots/tachogram.PNG" width="700"/>
 
-### Frequency domain analysis
-<img src="/Screenshots/frequency_domain.PNG" width="700"/>
 
 ### Time domain analysis
 Through a time domain analysis various relevant statistical metrics can be derived such as the standard deviation for the NN intervals (normalized peak-to-peak intervals).
+
 <img src="/Screenshots/time_domain.PNG" width="700"/>
 
 
+### Frequency domain analysis
+
+<img src="/Screenshots/frequency_domain.PNG" width="700"/>
+
+
+
+### Non-linear analysis
+After time and frequency domain analysis, non-linear analysis can be done. Such analysis include the use of [Poincaré plots](https://en.wikipedia.org/wiki/Poincar%C3%A9_plot), entropy plots and recurrence plots.
+
+Poincaré plot
+
+<img src="/Screenshots/poincare_plot.PNG" width="700"/>
+<img src="/Screenshots/poincare_3D_plot.PNG" width="700"/>
+
+Entropy plots
+
+<img src="/Screenshots/entropy.PNG" width="700"/>
+
+Recurrence plots
+<img src="/Screenshots/recurrence_plot.PNG" width="700"/>
 
