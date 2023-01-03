@@ -50,5 +50,6 @@ Entropy plots
 <img src="/Screenshots/entropy.PNG" width="700"/>
 
 Recurrence plots
+
 <img src="/Screenshots/recurrence_plot.PNG" width="700"/>
 
