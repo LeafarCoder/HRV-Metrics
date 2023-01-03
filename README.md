@@ -40,7 +40,7 @@ Through a time domain analysis various relevant statistical metrics can be deriv
 ### Non-linear analysis
 After time and frequency domain analysis, non-linear analysis can be done. Such analysis include the use of [Poincaré plots](https://en.wikipedia.org/wiki/Poincar%C3%A9_plot), entropy plots and recurrence plots.
 
-Poincaré plot
+Poincaré plot (2D and 3D)
 
 <img src="/Screenshots/poincare_plot.PNG" width="700"/>
 <img src="/Screenshots/poincare_3D_plot.PNG" width="700"/>
